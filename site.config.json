@@ -1,0 +1,44 @@
+{
+  "name": "Alpine Huts World Map",
+  "slug": "alpinehutsworldmap",
+  "emoji": "🏔️",
+  "domain": "alpinehutsworldmap.vercel.app",
+  "colors": {
+    "primary": "#6d4c2f",
+    "accent": "#c9a66b"
+  },
+  "osm": {
+    "key": "tourism",
+    "value": "alpine_hut"
+  },
+  "osmFilters": [
+    {
+      "key": "tourism",
+      "value": "alpine_hut"
+    }
+  ],
+  "includeRelations": false,
+  "dedupeMeters": 0,
+  "mappedNoun": "alpine huts",
+  "unnamedLabel": "Unnamed alpine hut",
+  "metaFields": [
+    {
+      "key": "elevation",
+      "label": "Elevation",
+      "unit": "m"
+    }
+  ],
+  "locales": [
+    "en"
+  ],
+  "defaultLocale": "en",
+  "namedOnly": false,
+  "includeFilter": null,
+  "dataSource": {
+    "type": "overpass"
+  },
+  "googlePlaces": {
+    "enabled": false,
+    "cap": 800
+  }
+}
