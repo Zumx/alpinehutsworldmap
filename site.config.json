@@ -21,6 +21,7 @@
   "dedupeMeters": 0,
   "mappedNoun": "alpine huts",
   "unnamedLabel": "Unnamed alpine hut",
+  "affiliateUrl": "https://www.getyourguide.com/s/?q={q}",
   "metaFields": [
     {
       "key": "elevation",
@@ -28,6 +29,7 @@
       "unit": "m"
     }
   ],
+  "aboutText": null,
   "locales": [
     "en"
   ],
