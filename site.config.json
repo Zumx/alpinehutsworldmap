@@ -19,6 +19,7 @@
   ],
   "includeRelations": false,
   "dedupeMeters": 0,
+  "initialCap": 8000,
   "mappedNoun": "alpine huts",
   "unnamedLabel": "Unnamed alpine hut",
   "affiliateUrl": "https://www.getyourguide.com/s/?q={q}",
