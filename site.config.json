@@ -35,7 +35,8 @@
     "en",
     "de",
     "fr",
-    "it"
+    "it",
+    "sv"
   ],
   "defaultLocale": "en",
   "namedOnly": false,
