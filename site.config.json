@@ -3,6 +3,7 @@
   "slug": "alpinehutsworldmap",
   "emoji": "🏔️",
   "domain": "alpinehutsworldmap.vercel.app",
+  "contactEmail": "hello@alpinehutsworldmap.vercel.app",
   "colors": {
     "primary": "#6d4c2f",
     "accent": "#c9a66b"
