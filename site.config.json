@@ -24,6 +24,7 @@
   "mappedNoun": "alpine huts",
   "unnamedLabel": "Unnamed alpine hut",
   "affiliateUrl": "https://www.booking.com/searchresults.html?ss={q}",
+  "ctaType": "stay",
   "metaFields": [
     {
       "key": "elevation",
