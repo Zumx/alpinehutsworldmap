@@ -33,7 +33,10 @@
       "unit": "m"
     }
   ],
-  "aboutText": null,
+  "aboutText": [
+    "Alpine Huts World Map plots the mountain refuges, manned and self-service huts and bivouacs that make multi-day routes through the Alps, Pyrenees, Tatras and ranges beyond possible — the places where hikers and ski-tourers eat, sleep and wait out the weather above the tree line.",
+    "Every hut is drawn from OpenStreetMap's `tourism=alpine_hut` tag, so the map grows as the climbing and hiking community keeps it current. It's built for trip planners stitching together a hut-to-hut traverse, not for booking a hotel in the valley."
+  ],
   "locales": [
     "en",
     "de",
